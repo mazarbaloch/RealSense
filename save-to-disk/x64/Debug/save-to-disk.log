@@ -1,0 +1,6 @@
+﻿  rs-save-to-disk.cpp
+C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\save-to-disk\rs-save-to-disk.cpp(37,7): warning C4101:  'timestamp': unreferenced local variable
+  save-to-disk.vcxproj -> C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\x64\Debug\save-to-disk.exe
+  Copy Intel RealSense SDK 2.0 shared module next to the application
+  C:\Program Files (x86)\Intel RealSense SDK 2.0\bin\x64\realsense2.dll
+  1 File(s) copied
